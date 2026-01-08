@@ -1,4 +1,5 @@
 #**An Investigation into Energy Consumption and Population Growth in Select Countries**
+
 #**Overview**
 This repository contains the code, data, and analysis for a project investigating the relationship between energy consumption and population growth in four select regions: India, the United States, the European Union, and Canada. The analysis spans 34 years of data sourced from the World Bank. Using clustering techniques (K-Means) and curve-fitting models, we identify patterns, trends, and future projections for energy use per capita.
 
